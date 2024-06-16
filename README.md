@@ -1,4 +1,4 @@
-  <h4>I am a Flutter Developer with a strong passion for cross-platform development, API and microservices architecture, as well as machine learning and artificial intelligence.</h4>
+<h4>I am a Flutter Developer with a strong passion for cross-platform development, API and microservices architecture, as well as machine learning and artificial intelligence.</h4>
 
 <p style="display: flex; justify-content: center; align-items: center;">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" style="width: 70px; height: 70px;">
@@ -8,6 +8,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width: 70px; height: 70px;">
 </p>
 
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fr33d0s&theme=radical" alt="GitHub Streak">
-  </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fr33d0s&theme=radical" alt="GitHub Streak">
+</p>
