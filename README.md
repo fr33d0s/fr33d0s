@@ -1,3 +1,6 @@
+<p align="center">
+<h3>HI!</h3>
+</p>
 <h4>I am a Flutter Developer with a strong passion for cross-platform development, API and microservices architecture, as well as machine learning and artificial intelligence.</h4>
 
 <p align="center">
