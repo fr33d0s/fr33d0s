@@ -1,8 +1,8 @@
-<h3 style="text-align: center;">I am a Flutter Developer with a strong passion for cross-platform development, API and microservices architecture, as well as machine learning and artificial intelligence.</h3>
+<h2 style="text-align: left;">I am a Flutter Developer with a strong passion for cross-platform development, API and microservices architecture, as well as machine learning and artificial intelligence.</h2>
 
-<p style="text-align: left;">
-  <img src="https://komarev.com/ghpvc/?username=fr33d0s&label=Profile%20views&color=0e75b6&style=plastic" alt="fr33d0s" />
-</p>
+
+
+
 
 <p style="text-align: center;">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
@@ -22,17 +22,32 @@
   </a>
 </p>
 
+
+
+
+<p style="text-align: left;">
+  <img src="https://komarev.com/ghpvc/?username=fr33d0s&label=Profile%20views&color=0e75b6&style=plastic" alt="fr33d0s" />
+</p>
+
+
+
+
 <p style="text-align: left;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=fr33d0s&theme=onestar" alt="fr33d0s" />
   </a>
 </p>
 
+
+
 <p>&nbsp;</p>
 
 <p style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=fr33d0s&show_icons=true&locale=en&theme=radical" alt="fr33d0s" />
 </p>
+
+
+
 
 <p style="text-align: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fr33d0s&theme=radical" alt="fr33d0s" />
