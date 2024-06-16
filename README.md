@@ -1,4 +1,5 @@
-  <h5>I am a Flutter Developer with a strong passion for cross-platform development, API and microservices architecture, as well as machine learning and artificial intelligence.</h5>
+  <h5>I am a Flutter Developer with a strong passion for cross-platform development, 
+  API and microservices architecture, as well as machine learning and artificial intelligence.</h5>
 
 <p style="display: flex; justify-content: center; align-items: center;">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" style="width: 70px; height: 70px;">
