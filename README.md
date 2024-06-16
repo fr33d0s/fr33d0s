@@ -8,14 +8,6 @@
   </a>
 </p>
 <p align="left">
-  <a href="https://twitter.com/uk_ozgr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uk_ozgr" height="40" width="50" />
-  </a>
-  <a href="https://linkedin.com/in/ukozgr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ukozgr" height="40" width="50" />
-  </a>
-</p>
-<p align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50" />
   </a>
