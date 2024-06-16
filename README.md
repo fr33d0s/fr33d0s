@@ -15,6 +15,9 @@ Hi!<br>I am a Flutter Developer passionate about startup projects, focusing on c
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=fr33d0s&icon=8&color=2)](https://visitcount.itsvg.in)
 
