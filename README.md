@@ -3,26 +3,57 @@
 <br/>
 
 ```text
-─ engineering ───────────────────────────────────────────────────────────────────
+─ activity ──────────────────────────────────────────────────────────────────────────
+
+  ✓  fix(ci): inject firebase + app check env vars into desktop build       v0.1.4   11m 14s
+  ✓  fix(updater): correct feed URL — was hitting SPA fallback              v0.1.3   10m 38s
+  ✓  fix(electron): loadFile path — black screen root cause                 v0.1.2    9m 33s
+  ✓  docs: rewrite CI-CD journey — tech-agnostic for general audience       main      1m 46s
+  ✓  feat: RTL / LTR / arabic canvas text support for TextStim              psychojs      —
+  ✓  feat: web audio TonePlayer — replaces Tone.js runtime dep              psychojs      —
+  ✓  fix: pixi textbox rebuild — container + graphics + text                psychojs      —
+  ✓  fix: webgl shader pre-compile — strip JSDoc before #version            psychojs      —
+```
+
+<br/>
+
+```text
+─ engineering ───────────────────────────────────────────────────────────────────────
 
   architecture    multi-tenant saas  ·  clean · ddd · mvvm  ·  dsl & metadata design
+                  domain · application · infrastructure · presentation layering
                   mixin-driven controller hierarchy
                   composable base abstraction layer
                   per-request multi-branch tenant isolation
-                  feature-based clean architecture at scale
+                  feature-based modular design at scale
                   state machine & workflow design
+
+  runtime         electron  ·  custom auto-updater  ·  ipc bridge (main / preload)
+                  electron-builder — nsis · portable · zip · dmg (arm64 + x64) · appimage · deb
+                  multi-target vite — web / desktop split on shared base config
+                  typescript project references (app · functions · electron)
+                  react  ·  shadcn/ui  ·  tailwind  ·  i18n
 
   mobile          flutter · dart  ·  getx reactive pipelines
                   thermal receipt printer native bridge (bluetooth / usb)
-                  shorebird ota patch distribution · silent updates
+                  shorebird ota patch distribution  ·  silent updates
 
-  backend         event-driven  ·  serverless
+  backend         event-driven  ·  serverless  ·  firebase cloud functions
                   encrypted multipart api  ·  dynamic firebase key distribution
                   140+ encrypted rest endpoints
-                  oauth 2.0 multi-provider
-                  webhook security & cryptographic verification (hmac-sha512)
+                  oauth 2.0 multi-provider  ·  hmac-sha512 webhook security
                   server-side payment validation
                   government system integration (soap)
+
+  cloud           firebase — hosting · firestore · functions · storage
+                  app check (recaptcha v3 + debug token for electron)
+                  remote config  ·  emulator suite
+                  firestore rules with automated test harness
+
+  ci / cd         github actions — ci · desktop release · web deploy · functions deploy
+                  husky + lint-staged pre-commit
+                  release pipeline — publish · stage · rollback
+                  playwright e2e  ·  vitest unit  ·  rules testing
 
   blockchain      solidity · evm  ·  tron / trc20
                   smart contracts  ·  on-chain transaction verification
@@ -39,7 +70,7 @@
 <br/>
 
 ```text
-─ certifications ────────────────────────────────────────────────────────────────
+─ certifications ────────────────────────────────────────────────────────────────────
 
   2026 · 03    building agentic ai systems for tech leaders          linkedin
   2025 · 06    transforming business with ai agents                  linkedin
