@@ -89,4 +89,32 @@
 
 <br/>
 
+```text
+─ projects ──────────────────────────────────────────────────────────────────────────
+
+  ·  multi-platform desktop + web research suite
+     electron · firebase · react  ·  custom auto-updater  ·  app check
+     cross-platform installers — windows · macos · linux
+
+  ·  in-browser cognitive experiment runtime — modernization of a legacy framework
+     web audio · webgl shaders · pixi · canvas bidi text (rtl / ltr / arabic)
+
+  ·  multi-tenant mobile accounting platform
+     flutter · getx reactive pipelines  ·  shorebird ota
+     thermal receipt printer native bridge (bluetooth / usb)
+
+  ·  cloud erp for distribution & inventory
+     140+ encrypted rest endpoints  ·  dynamic firebase remote-config key distribution
+     multi-template financial document generation pipeline
+
+  ·  municipal saas platform — web · desktop · hardware iot
+     multi-tenant  ·  framework & dsl design for metadata-driven ui
+
+  ·  blockchain escrow & payment system
+     solidity smart contracts  ·  on-chain transaction verification
+     tron / trc20 integration  ·  hmac-sha512 webhook security
+```
+
+<br/>
+
 <sub><a href="https://www.linkedin.com/in/ukozgr">linkedin</a> &nbsp;·&nbsp; <a href="https://github.com/fr33d0s?tab=repositories">repos</a></sub>
