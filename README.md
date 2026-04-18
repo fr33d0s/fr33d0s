@@ -1,14 +1,19 @@
-### özgür uk  ·  software architect
+### özgür uk  ·  software architect  ·  full-stack
 
-<sub>multi-tenant saas  ·  finance · government · research  ·  agentic ai · payments · cloud</sub>
+<sub>building multi-tenant products across finance · government · research  —  agentic ai · payments · cloud</sub>
 
 <br/>
 
 ```text
 ─ engineering ───────────────────────────────────────────────────────────────────────
 
-  architecture    multi-tenant saas at production scale  ·  clean · ddd · mvvm
-                  framework & dsl design for metadata-driven ui
+  systems         multi-tenant saas at production scale  ·  platform architecture
+                  framework & dsl design  ·  metadata-driven ui engines
+                  cross-platform delivery — web · desktop · mobile · iot · blockchain
+                  saas monetization  ·  billing  ·  scheduled automation
+                  government system integration (soap)  ·  server-side payment validation
+
+  architecture    clean · ddd · mvvm
                   domain · application · infrastructure · presentation layering
                   mixin-driven controller hierarchy  ·  composable base abstraction
                   per-request multi-branch tenant isolation
@@ -20,8 +25,7 @@
   backend         event-driven  ·  serverless  ·  firebase cloud functions
                   140+ encrypted rest endpoints  ·  encrypted multipart api
                   dynamic key distribution  ·  hmac-sha512 webhook security
-                  oauth 2.0 multi-provider  ·  server-side payment validation
-                  government system integration (soap)
+                  oauth 2.0 multi-provider
 
   cloud           firebase full-stack — hosting · firestore · functions · storage
                   app check (recaptcha v3 + debug token for electron)
@@ -49,7 +53,7 @@
 
   domain          erp · accounting · municipal · warehouse & inventory
                   multi-template financial document generation
-                  saas monetization · scheduled automation · revenue analytics
+                  revenue analytics · scheduled automation
 ```
 
 <br/>
