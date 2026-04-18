@@ -57,15 +57,34 @@
 ```text
 ─ certifications ────────────────────────────────────────────────────────────────────
 
-  2026 · 03    building agentic ai systems for tech leaders          linkedin
-  2025 · 06    transforming business with ai agents                  linkedin
-  2025 · 06    leveraging agentic ai in cloud computing              linkedin
-  2025 · 05    oracle cloud infrastructure genai professional prep   linkedin
-  2025 · 05    preparing your organization for ai agents             linkedin
-  2025 · 05    agentic ai fundamentals — architectures & frameworks  linkedin
-  2025 · 02    agentic ai for developers                             linkedin
-  2025 · 02    building agents with vertex ai                        linkedin
-  2025 · 02    hands-on ai  ·  rag using llama-index                 linkedin
+  linkedin
+
+  2026 · 03    building agentic ai systems for tech leaders
+  2025 · 06    transforming business with ai agents
+  2025 · 06    leveraging agentic ai in cloud computing
+  2025 · 05    oracle cloud infrastructure genai professional prep
+  2025 · 05    preparing your organization for ai agents
+  2025 · 05    agentic ai fundamentals — architectures & frameworks
+  2025 · 02    agentic ai for developers
+  2025 · 02    building agents with vertex ai
+  2025 · 02    hands-on ai  ·  rag using llama-index
+
+
+  ibm  ·  skillup
+
+  2025 · 06    professional certificate  ·  ibm ios and android mobile app developer
+  2025 · 06    generative ai — elevate your software development career
+  2025 · 06    generative ai — turbocharge mobile app development
+  2025 · 06    developing front-end apps with react
+  2025 · 06    react native — developing android and ios apps
+  2025 · 06    flutter and dart — developing ios, android, and mobile apps
+  2025 · 06    designing user interfaces and experiences (ui / ux)
+
+
+  university of london  ·  goldsmiths
+
+  2025 · 06    professional certificate  ·  introduction to computer science and programming
+  2025 · 06    mathematics for computer science
 ```
 
 <br/>
