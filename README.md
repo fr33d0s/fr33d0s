@@ -92,27 +92,11 @@
 ```text
 ─ projects ──────────────────────────────────────────────────────────────────────────
 
-  ·  multi-platform desktop + web research suite
-     electron · firebase · react  ·  custom auto-updater  ·  app check
-     cross-platform installers — windows · macos · linux
-
-  ·  in-browser cognitive experiment runtime — modernization of a legacy framework
-     web audio · webgl shaders · pixi · canvas bidi text (rtl / ltr / arabic)
-
-  ·  multi-tenant mobile accounting platform
-     flutter · getx reactive pipelines  ·  shorebird ota
-     thermal receipt printer native bridge (bluetooth / usb)
-
-  ·  cloud erp for distribution & inventory
-     140+ encrypted rest endpoints  ·  dynamic firebase remote-config key distribution
-     multi-template financial document generation pipeline
-
-  ·  municipal saas platform — web · desktop · hardware iot
-     multi-tenant  ·  framework & dsl design for metadata-driven ui
-
-  ·  blockchain escrow & payment system
-     solidity smart contracts  ·  on-chain transaction verification
-     tron / trc20 integration  ·  hmac-sha512 webhook security
+  2026 · 04 — now    desktop + web suite for cognitive research laboratories
+  2026 · 04 — now    modernization of an in-browser psychology experiment runtime
+  2025 · 12 — now    wholesale produce market automation for turkish municipalities
+  2025 · 01 — now    cloud accounting platform for turkish businesses
+  2024 · 10 — now    enterprise mobile erp for turkish small & medium-sized businesses
 ```
 
 <br/>
