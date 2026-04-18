@@ -1,57 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 200" width="720" height="200" role="img" aria-label="cognitive signal">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 160" width="720" height="160" role="img" aria-label="özgür uk">
   <defs>
     <style>
       text { font-family: "JetBrains Mono","SF Mono","Menlo","Consolas",monospace; fill: #9ca3af; }
       .micro { font-size: 9px;  letter-spacing: 0.42em; text-transform: uppercase; }
-      .mono  { font-size: 11px; letter-spacing: 0.22em; }
-      .name  { font-size: 22px; letter-spacing: 0.18em; fill: #e5e7eb; }
+      .name  { font-size: 24px; letter-spacing: 0.22em; fill: #e5e7eb; font-weight: 300; }
       .thin  { stroke: #9ca3af; fill: none; stroke-width: 1;   stroke-linecap: round; stroke-linejoin: round; }
-      .hair  { stroke: #9ca3af; fill: none; stroke-width: 0.5; opacity: 0.35; }
+      .hair  { stroke: #9ca3af; fill: none; stroke-width: 0.5; opacity: 0.3; }
       .dot   { fill: #e5e7eb; }
-
       @keyframes breath { 0%,100% { opacity: 0.25 } 50% { opacity: 0.95 } }
       @keyframes shift  { 0% { stroke-dashoffset: 0 } 100% { stroke-dashoffset: -80 } }
       @keyframes blink  { 0%,60%,100% { opacity: 1 } 70%,90% { opacity: 0.15 } }
-
-      .wave  { stroke-dasharray: 2 6; animation: shift 3.6s linear infinite; }
+      .wave  { stroke-dasharray: 2 6; animation: shift 4s linear infinite; }
       .pulse { animation: breath 2.4s ease-in-out infinite; }
       .live  { animation: blink 2s steps(1,end) infinite; }
     </style>
   </defs>
 
-  <!-- frame -->
   <line class="hair" x1="24" y1="22" x2="696" y2="22" />
-  <line class="hair" x1="24" y1="178" x2="696" y2="178" />
+  <line class="hair" x1="24" y1="138" x2="696" y2="138" />
 
-  <!-- top meta -->
-  <text class="micro" x="24"  y="15">◦ transmission</text>
-  <text class="micro" x="696" y="15" text-anchor="end">v 26.04 · istanbul</text>
+  <text class="micro" x="24"  y="15">fr33d0s</text>
+  <text class="micro" x="696" y="15" text-anchor="end">2026 · istanbul</text>
 
-  <!-- center identity -->
-  <text class="name"  x="360" y="80"  text-anchor="middle">Ö Z G Ü R . U K</text>
-  <text class="mono"  x="360" y="100" text-anchor="middle" opacity="0.75">cognition  ·  code  ·  interface</text>
+  <text class="name" x="360" y="72" text-anchor="middle">Ö Z G Ü R . U K</text>
 
-  <!-- waveform baseline (dashed, slowly drifting) -->
-  <path class="thin wave"
-        d="M 24 130 L 696 130" />
-
-  <!-- eeg burst overlay (static, but read as a single spike through the line) -->
+  <path class="thin wave" d="M 24 105 L 696 105" />
   <path class="thin"
-        d="M 24 130 L 220 130
-           L 236 118 L 248 142 L 260 108 L 272 150 L 284 124 L 296 130
-           L 420 130
-           L 436 122 L 448 138 L 460 118 L 472 142 L 484 128 L 496 130
-           L 696 130"
-        opacity="0.85" />
-
-  <!-- probe dot traveling along the baseline -->
+        d="M 24 105 L 220 105
+           L 236 93 L 248 117 L 260 83 L 272 125 L 284 99 L 296 105
+           L 420 105
+           L 436 97 L 448 113 L 460 93 L 472 117 L 484 103 L 496 105
+           L 696 105"
+        opacity="0.8" />
   <circle class="dot pulse" r="2.4">
-    <animateMotion dur="9s" repeatCount="indefinite"
-      path="M 24 130 L 696 130" />
+    <animateMotion dur="9s" repeatCount="indefinite" path="M 24 105 L 696 105" />
   </circle>
 
-  <!-- bottom meta -->
-  <text class="micro" x="24"  y="194"><tspan class="live" fill="#e5e7eb">●</tspan><tspan dx="6">online</tspan></text>
-  <text class="micro" x="360" y="194" text-anchor="middle">41.008° N  ·  28.978° E</text>
-  <text class="micro" x="696" y="194" text-anchor="end">temperature · 0.4</text>
+  <text class="micro" x="24"  y="155"><tspan class="live" fill="#e5e7eb">●</tspan><tspan dx="6">online</tspan></text>
+  <text class="micro" x="696" y="155" text-anchor="end">41.008° N  ·  28.978° E</text>
 </svg>
