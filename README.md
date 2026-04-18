@@ -57,11 +57,11 @@
 ```text
 ─ projects ──────────────────────────────────────────────────────────────────────────
 
-  2026 · 04 — now    desktop + web suite for cognitive research laboratories              architect
-  2026 · 04 — now    modernization of an in-browser psychology experiment runtime        maintainer
-  2025 · 12 — now    wholesale produce market automation for turkish municipalities       architect
-  2025 · 01 — now    cloud accounting platform for turkish businesses                     architect
-  2024 · 10 — now    enterprise mobile erp for turkish small & medium-sized businesses    architect
+  2026 · 04 — now    architect · full-stack    desktop + web suite for cognitive research laboratories
+  2026 · 04 — now    maintainer                modernization of an in-browser psychology experiment runtime
+  2025 · 12 — now    architect · full-stack    wholesale produce market automation for turkish municipalities
+  2025 · 01 — now    architect · full-stack    cloud accounting platform for turkish businesses
+  2024 · 10 — now    architect · full-stack    enterprise mobile erp for turkish small & medium-sized businesses
 ```
 
 <br/>
