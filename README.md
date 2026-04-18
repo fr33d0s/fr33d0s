@@ -1,72 +1,45 @@
-<div align="center">
-
-<img src="./.github/assets/signal.svg" alt="Özgür UK — software architect" width="720" />
-
-</div>
+### özgür uk  ·  software architect
 
 <br/>
 
 ```text
-skills     architecture    multi-tenant saas  ·  clean / ddd / mvvm  ·  framework & dsl design
-           platforms       flutter · dart  ·  electron  ·  firebase  ·  solidity / evm  ·  mcp
-           domains         erp  ·  accounting  ·  municipal  ·  blockchain  ·  ai agents
+─ engineering ───────────────────────────────────────────────────────────────────
+
+  architecture    multi-tenant saas  ·  clean · ddd · mvvm  ·  dsl & metadata design
+                  mixin-driven controller hierarchy
+                  composable base abstraction layer
+                  per-request multi-branch tenant isolation
+                  feature-based clean architecture at scale
+                  state machine & workflow design
+
+  mobile          flutter · dart  ·  getx reactive pipelines
+                  thermal receipt printer native bridge (bluetooth / usb)
+                  shorebird ota patch distribution · silent updates
+
+  backend         event-driven  ·  serverless
+                  encrypted multipart api  ·  dynamic firebase key distribution
+                  140+ encrypted rest endpoints
+                  oauth 2.0 multi-provider
+                  webhook security & cryptographic verification (hmac-sha512)
+                  server-side payment validation
+                  government system integration (soap)
+
+  blockchain      solidity · evm  ·  tron / trc20
+                  smart contracts  ·  on-chain transaction verification
+                  escrow system architecture  ·  payment integration
+
+  ai              anthropic claude api  ·  vertex agents  ·  rag (llama-index)  ·  mcp
+                  llm integration engineer  ·  ai-augmented product development
+
+  domain          erp · accounting · municipal · warehouse & inventory
+                  multi-template financial document generation
+                  saas monetization · scheduled automation · revenue analytics
 ```
 
 <br/>
 
 ```text
-─ experience ─────────────────────────────────────────────────────────────────────
-
-  vatan yazılım  ·  software developer  ·  istanbul
-
-
-  vatan muhasebe              mobile accounting
-                              mixin-driven controller hierarchy
-                              composable base abstraction layer
-                              per-request multi-branch tenant isolation
-                              reactive financial state pipeline (getx observables)
-                              thermal receipt printer native bridge (bluetooth / usb)
-                              shorebird ota patch distribution · silent updates
-
-
-  onurhal bulut mobil         cloud erp  ·  140+ encrypted endpoints
-                              encrypted multipart api architect
-                              dynamic encryption key distribution (firebase remote config)
-                              multi-tenant erp isolation design
-                              warehouse & inventory state management
-                              functional error propagation architecture
-                              multi-template financial document generation pipeline
-                              feature-based clean architecture at scale
-
-
-  onur belediye               municipal saas  ·  web · desktop · hardware iot
-                              multi-tenant saas architecture
-                              framework & dsl designer (custom metadata systems)
-                              software architect — clean architecture · ddd · mvvm
-                              enterprise application developer
-
-
-  specializations             escrow system architect
-                              saas monetization architect
-                              blockchain payment integration (tron / trc20)
-                              smart contract developer (solidity, evm)
-                              on-chain transaction verification engineer
-                              llm integration engineer (anthropic claude api)
-                              ai-augmented product developer
-                              event-driven backend  ·  serverless architecture
-                              scheduled automation & trigger systems
-                              revenue analytics & dashboard developer
-                              webhook security & cryptographic verification (hmac-sha512)
-                              oauth 2.0 multi-provider implementation
-                              state machine & workflow design
-                              server-side payment validation architect
-                              government system integration specialist (soap)
-```
-
-<br/>
-
-```text
-─ certifications ─────────────────────────────────────────────────────────────────
+─ certifications ────────────────────────────────────────────────────────────────
 
   2026 · 03    building agentic ai systems for tech leaders          linkedin
   2025 · 06    transforming business with ai agents                  linkedin
@@ -81,6 +54,4 @@ skills     architecture    multi-tenant saas  ·  clean / ddd / mvvm  ·  framew
 
 <br/>
 
-<div align="center">
-<sub>vatan yazılım &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/ukozgr">linkedin</a> &nbsp;·&nbsp; <a href="https://github.com/fr33d0s?tab=repositories">repos</a></sub>
-</div>
+<sub><a href="https://www.linkedin.com/in/ukozgr">linkedin</a> &nbsp;·&nbsp; <a href="https://github.com/fr33d0s?tab=repositories">repos</a></sub>
