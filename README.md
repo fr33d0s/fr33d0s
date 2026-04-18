@@ -3,21 +3,6 @@
 <br/>
 
 ```text
-─ activity ──────────────────────────────────────────────────────────────────────────
-
-  ✓  fix(ci): inject firebase + app check env vars into desktop build       v0.1.4   11m 14s
-  ✓  fix(updater): correct feed URL — was hitting SPA fallback              v0.1.3   10m 38s
-  ✓  fix(electron): loadFile path — black screen root cause                 v0.1.2    9m 33s
-  ✓  docs: rewrite CI-CD journey — tech-agnostic for general audience       main      1m 46s
-  ✓  feat: RTL / LTR / arabic canvas text support for TextStim              psychojs      —
-  ✓  feat: web audio TonePlayer — replaces Tone.js runtime dep              psychojs      —
-  ✓  fix: pixi textbox rebuild — container + graphics + text                psychojs      —
-  ✓  fix: webgl shader pre-compile — strip JSDoc before #version            psychojs      —
-```
-
-<br/>
-
-```text
 ─ engineering ───────────────────────────────────────────────────────────────────────
 
   architecture    multi-tenant saas  ·  clean · ddd · mvvm  ·  dsl & metadata design
