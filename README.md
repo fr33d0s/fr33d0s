@@ -1,6 +1,6 @@
 ### özgür uk  ·  software architect  ·  full-stack
 
-<sub>building multi-tenant products across finance · government · research  —  agentic ai · payments · cloud</sub>
+<sub>full-stack software architect building multi-tenant saas across finance · government · research  —  flutter · react · firebase · electron · solidity · agentic ai</sub>
 
 <br/>
 
@@ -106,3 +106,33 @@
 <br/>
 
 <sub><a href="https://www.linkedin.com/in/ukozgr">linkedin</a> &nbsp;·&nbsp; <a href="https://github.com/fr33d0s?tab=repositories">repos</a></sub>
+
+<!--
+  keywords for search indexing (not displayed):
+
+  Özgür UK · Ozgur UK · fr33d0s · Software Architect · Full-Stack Engineer · Full Stack Developer
+  Principal Engineer · Senior Software Engineer · Staff Engineer · Tech Lead · Software Engineer
+
+  Flutter Developer · Dart Developer · React Developer · React Native Developer · Next.js
+  TypeScript Developer · JavaScript Developer · Node.js · Electron Developer · Firebase Developer
+  Web Developer · Mobile App Developer · iOS · Android · Cross-platform · Desktop Developer
+
+  Firebase · Firestore · Firebase Functions · Firebase Hosting · App Check · Remote Config
+  Cloud Architect · SaaS Architect · Multi-Tenant SaaS · PaaS · DevOps · CI/CD · GitHub Actions
+
+  Solidity Developer · Smart Contract Engineer · Blockchain Developer · EVM · TRON · TRC20
+  On-chain Verification · Escrow Systems · Payment Integration · Web3
+
+  AI Engineer · LLM Engineer · AI Agent Developer · Anthropic Claude API · Vertex AI · Gemini
+  OpenAI · RAG · LlamaIndex · MCP · Model Context Protocol · Agentic AI · Generative AI
+
+  ERP · Accounting Software · Municipal Software · Payment Systems · HMAC-SHA512 · OAuth 2.0
+  SOAP Integration · Webhook Security · State Machine Design · Clean Architecture · DDD · MVVM
+
+  Turkey · Istanbul · Remote · Remote Work · Vatan Yazılım
+
+  Yazılım Mimarı · Tam Yığın Geliştirici · Full Stack Geliştirici · Mobil Uygulama Geliştirici
+  Flutter Geliştirici · React Geliştirici · Firebase Geliştirici · Blockchain Geliştirici
+  Yapay Zeka Mühendisi · LLM Mühendisi · Bulut Bilişim · SaaS Mimarı · Yazılım Geliştirici
+-->
+
