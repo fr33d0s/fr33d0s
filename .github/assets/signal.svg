@@ -1,41 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 160" width="720" height="160" role="img" aria-label="özgür uk">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 140" width="760" height="140" role="img" aria-label="özgür uk — software architect">
   <defs>
     <style>
-      text { font-family: "JetBrains Mono","SF Mono","Menlo","Consolas",monospace; fill: #9ca3af; }
-      .micro { font-size: 9px;  letter-spacing: 0.42em; text-transform: uppercase; }
-      .name  { font-size: 24px; letter-spacing: 0.22em; fill: #e5e7eb; font-weight: 300; }
-      .thin  { stroke: #9ca3af; fill: none; stroke-width: 1;   stroke-linecap: round; stroke-linejoin: round; }
-      .hair  { stroke: #9ca3af; fill: none; stroke-width: 0.5; opacity: 0.3; }
-      .dot   { fill: #e5e7eb; }
-      @keyframes breath { 0%,100% { opacity: 0.25 } 50% { opacity: 0.95 } }
-      @keyframes shift  { 0% { stroke-dashoffset: 0 } 100% { stroke-dashoffset: -80 } }
-      @keyframes blink  { 0%,60%,100% { opacity: 1 } 70%,90% { opacity: 0.15 } }
-      .wave  { stroke-dasharray: 2 6; animation: shift 4s linear infinite; }
-      .pulse { animation: breath 2.4s ease-in-out infinite; }
-      .live  { animation: blink 2s steps(1,end) infinite; }
+      text { font-family: "JetBrains Mono","SF Mono","Menlo","Consolas",monospace; }
+      .tag   { font-size: 9px;  letter-spacing: 0.48em; fill: #6b7280; text-transform: uppercase; }
+      .name  { font-size: 30px; letter-spacing: 0.34em; fill: #f3f4f6; font-weight: 200; }
+      .role  { font-size: 10px; letter-spacing: 0.54em; fill: #9ca3af; text-transform: uppercase; }
+      .hair  { stroke: #4b5563; stroke-width: 0.6; }
+      .tick  { stroke: #9ca3af; stroke-width: 1; }
     </style>
   </defs>
 
-  <line class="hair" x1="24" y1="22" x2="696" y2="22" />
-  <line class="hair" x1="24" y1="138" x2="696" y2="138" />
+  <!-- top tag row -->
+  <text class="tag" x="32"  y="22">fr33d0s</text>
+  <text class="tag" x="728" y="22" text-anchor="end">2026</text>
 
-  <text class="micro" x="24"  y="15">fr33d0s</text>
-  <text class="micro" x="696" y="15" text-anchor="end">2026 · istanbul</text>
+  <!-- name block, center -->
+  <text class="name" x="380" y="72" text-anchor="middle">Ö Z G Ü R   U K</text>
 
-  <text class="name" x="360" y="72" text-anchor="middle">Ö Z G Ü R . U K</text>
+  <!-- precise rule with tick marks (architectural, not a waveform) -->
+  <line class="hair" x1="140" y1="88" x2="620" y2="88" />
+  <line class="tick" x1="140" y1="84" x2="140" y2="92" />
+  <line class="tick" x1="380" y1="82" x2="380" y2="94" />
+  <line class="tick" x1="620" y1="84" x2="620" y2="92" />
 
-  <path class="thin wave" d="M 24 105 L 696 105" />
-  <path class="thin"
-        d="M 24 105 L 220 105
-           L 236 93 L 248 117 L 260 83 L 272 125 L 284 99 L 296 105
-           L 420 105
-           L 436 97 L 448 113 L 460 93 L 472 117 L 484 103 L 496 105
-           L 696 105"
-        opacity="0.8" />
-  <circle class="dot pulse" r="2.4">
-    <animateMotion dur="9s" repeatCount="indefinite" path="M 24 105 L 696 105" />
-  </circle>
-
-  <text class="micro" x="24"  y="155"><tspan class="live" fill="#e5e7eb">●</tspan><tspan dx="6">online</tspan></text>
-  <text class="micro" x="696" y="155" text-anchor="end">41.008° N  ·  28.978° E</text>
+  <!-- role -->
+  <text class="role" x="380" y="116" text-anchor="middle">software  architect   ·   istanbul</text>
 </svg>
